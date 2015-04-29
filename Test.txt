@@ -12,4 +12,8 @@ Lara successfully resolved a conflict!
 
 I am the shaving foams
 
+<<<<<<< HEAD
 eric change again
+=======
+goobledy gook
+>>>>>>> origin/master
