@@ -1,1 +1,3 @@
 this is eric file
+my text
+David was here
