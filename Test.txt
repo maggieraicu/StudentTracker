@@ -8,3 +8,5 @@ David was here
 eric test 2
 David this is just for you!!
 
+Lara successfully resolved a conflict!
+
